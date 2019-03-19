@@ -1,0 +1,6 @@
+exports.index = '/api/task'
+exports.create = '/api/task/create'
+exports.info = '/api/task/:id/info'
+exports.update = '/api/task/:id/update'
+exports.remove = '/api/task/:id/remove'
+exports.status = '/api/task/:id/status'
