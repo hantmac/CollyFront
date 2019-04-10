@@ -251,7 +251,7 @@ export default {
               "setTimeout",
               setTimeout(() => {
                 this.getLog(job);
-              }, 2000)
+              }, 1000)
             );
           })
           .catch(() => {
